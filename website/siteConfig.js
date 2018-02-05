@@ -42,8 +42,8 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' Your Name or Your Company Name',
-  organizationName: 'Getty/IO Inc.', // or set an env variable ORGANIZATION_NAME
-  projectName: 'Getty/IO Docs', // or set an env variable PROJECT_NAME
+  organizationName: 'gettyio', // or set an env variable ORGANIZATION_NAME
+  projectName: 'docs', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
